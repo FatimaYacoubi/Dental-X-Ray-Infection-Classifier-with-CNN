@@ -1,1 +1,1 @@
-# Dental-X-Ray-Infection-Classifier-with-CNN
+# Dental X Ray Infection Classifier with CNN
